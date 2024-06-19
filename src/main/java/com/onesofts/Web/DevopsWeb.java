@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DevopsWeb {
 @GetMapping("dev")
 public String getData() {
-    return "i am sandhya";
+    return "I am sandhya";
 }
 
 }
